@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.button {
+  background-color: #f8fafc;
+  color: #303150;
+  font-family: 'Roboto';
+  font-size: 14px;
+  border: none;
+  border-radius: 12px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
